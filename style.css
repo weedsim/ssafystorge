@@ -1,0 +1,10 @@
+.carousel-item img{
+  height: 100vh;
+  /* vh, vw */
+  /* viewport height  다은은 알지? */
+  /* 얘네는 컴만 보는게 아니라 핸드폰이나 태블릿으로 볼때 화면이 줄어드는데 그상황에 맞춰서도 바뀌게 적용하느것 */
+}
+
+nav{
+  z-index: 1;
+}
